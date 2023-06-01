@@ -185,7 +185,8 @@ header {
 
 .features-section {
     padding: 80px var(--padding-inline-section);
-    background-image: url(assets/asset 41.png);
+    background-image: url(https://github.com/krishnakumar0821/website-clone/blob/4f70bd2dd0fefeaeb7d18fd080c3ee6b13850b43/assets/asset%2041.png);
+    
     background-repeat: no-repeat;
     background-position: center;
 }
