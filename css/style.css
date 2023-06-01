@@ -255,7 +255,7 @@ header {
     background: black;
     background: linear-gradient(rgb(0, 0, 0, 0.1),
             rgb(0, 0, 0, 0.8)),
-        url(/assets/asset\ 36.jpeg);
+        url(assets/asset\ 36.jpeg);
         background-size: cover;
         transition: 0.2 ease-out;
 }
@@ -266,19 +266,19 @@ header {
 .examples-card:nth-child(2){
     background: linear-gradient(rgb(0, 0, 0, 0.1),
             rgb(0, 0, 0, 0.8)),
-        url(/assets/asset\ 37.jpeg);
+        url(assets/asset\ 37.jpeg);
         background-size: cover;
 }
 .examples-card:nth-child(3){
     background: linear-gradient(rgb(0, 0, 0, 0.1),
             rgb(0, 0, 0, 0.8)),
-        url(/assets/asset\ 38.jpeg);
+        url(assets/asset\ 38.jpeg);
         background-size: cover;
 }
 .examples-card:nth-child(4){
     background: linear-gradient(rgb(0, 0, 0, 0.1),
             rgb(0, 0, 0, 0.8)),
-        url(/assets/asset\ 39.jpeg);
+        url(assets/asset\ 39.jpeg);
         background-size: cover;
 }
 .card-text {
